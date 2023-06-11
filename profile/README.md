@@ -1,7 +1,9 @@
 # Bibot-org / Code recipe
 ## 반갑습니다! Bibot 자동 경비처리 프로젝트 Code Recipe 팀 리포지토리입니다.
 
-![mainscreen](https://github.com/BiBot-org/.github/assets/36991763/2df80a55-727f-4a3e-a0c4-667c177f8d11)
+<div>
+    <img src="https://github.com/BiBot-org/.github/assets/36991763/c770cefd-4575-4d1c-907d-357cfdda7f58" width="150%" height="auto"/>
+</div>
 
 ## 팀 소개
 |손우진(Team Leader)|박준석|노홍기|박노명|김효은|
