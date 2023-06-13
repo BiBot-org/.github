@@ -8,7 +8,7 @@
 # 😃 팀 소개
 
 <div align="center">
-  <img src="https://github.com/BiBot-org/bibot/assets/36991763/45d87402-e004-4946-9a79-9f89b7524d9c" />
+  <img src="https://github.com/BiBot-org/.github/assets/36991763/16bfbcad-6970-4531-a156-cbcdd527f1a7" />
 </div>
 <div align="center" margin="10 0 0 10">
   <h2>맛있게 먹어요! 우리는 Code Recipe!</h3>
