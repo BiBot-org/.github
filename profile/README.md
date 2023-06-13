@@ -26,30 +26,16 @@
 |- OCR API 연동 및 로직 개발</br>- 스켸쥴러 기반 경비처리 주기 업데이트 로직 개발</br>- Redis 기반 API 캐싱 환경 구축</br>- 테스트 엔지니어</br>|- Google Cloud Platform k8s 서버 운영</br> - GitOps CI/CD 구축</br>- Vault 기반 시크릿 서버 구축</br>- Prometheus & Grafana & Loki 기반 로그 수집 및 모니터링 구축 </br>- DB 서버 운영 및 연결</br>|- 애플리케이션 아키텍트</br>- Kafka기반 비동기 로직 개발</br>- SSO 구축(Keycloak)</br>- 앱 인증 로직 개발(NextAuth)</br>- 관리자 애플리케이션 개발</br>- 유저 앱 경비처리 프로세스 개발</br>- ReactQuery 기반 API 캐싱</br> - JPA Specification 기반 동적쿼리 검색 로직 개발</br>- 가상 결제 시스템 개발</br>|- 유저 애플리케이션 개발 및 디자인</br>|- 유저 애플리케이션 개발 및 디자인</br>|
 
 
-## Repo
-### [WebView Application](https://github.com/BiBot-org/bibot) 
-<div>
-    <img src="https://github.com/BiBot-org/.github/assets/36991763/67d10d2e-53ba-4eb2-83c5-8ff4da9dca9f" width="30%" height="auto" />
-    <img src="https://github.com/BiBot-org/.github/assets/36991763/23ce4a64-ebb8-4deb-b0bf-61a082257b64" width="30%" height="auto" />
-    <img src="https://github.com/BiBot-org/.github/assets/36991763/42e2dcb1-1c56-44cd-a4b2-8ea0a22cc166" width="30%" height="auto" />
-<div>
+# 😍 Repo
 
-### [Admin Application](https://github.com/BiBot-org/BiBot-admin)
-<div>
-   <img src="https://github.com/BiBot-org/.github/assets/36991763/acbb781c-fc3a-4a9e-8de8-2543c9964163"/>
-</div>
-      
-### [ArgoCD Template](https://github.com/BiBot-org/argoCD)  
-### [API Server](https://github.com/BiBot-org/bibot-backend)
-<div>
-  <img src="https://github.com/BiBot-org/.github/assets/36991763/aead73f3-9b6b-4635-b8fa-12cc4690bffb" />
-</div>
-  
-### [Mock Payment Service](https://github.com/BiBot-org/bibot-mock-payment) 
-<div>
-  <img src="https://github.com/BiBot-org/.github/assets/36991763/b464c525-0c57-4981-a901-3871b43d7396" />
-  <img src="https://github.com/BiBot-org/.github/assets/36991763/3779e831-76bb-488a-bcba-adc86693fa37" />
-</div>
+| [WebView Application](https://github.com/BiBot-org/bibot) || [API Server](https://github.com/BiBot-org/bibot-backend) || [Argo CI/CD Template](https://github.com/BiBot-org/argoCD)|
+| :-------------: |:---:|:-------------: |:---:|:-------------: |
+|   ![Screenshot from 2023-06-13 14-34-50](https://github.com/BiBot-org/.github/assets/36991763/76e9f63a-57fc-43f5-a4ee-ef76b5a04608) | | ![Screenshot from 2023-06-11 19-15-44](https://github.com/BiBot-org/.github/assets/36991763/53877681-b76e-4dc0-8471-6ba997791b08) ||![Screenshot from 2023-06-12 14-36-28](https://github.com/BiBot-org/.github/assets/36991763/32a0e17d-2661-48be-9a60-a018b6d549d8)|
+
+| [Admin Service](https://github.com/BiBot-org/BiBot-admin) || [Mock Payment Service](https://github.com/BiBot-org/bibot-mock-payment) |
+| :-------------: |:---:|:-------------: |
+| <img src="https://github.com/BiBot-org/.github/assets/36991763/acbb781c-fc3a-4a9e-8de8-2543c9964163"/> || <img src="https://github.com/BiBot-org/.github/assets/36991763/b464c525-0c57-4981-a901-3871b43d7396" /> |
+
 
 # 🛠 Tech Stacks
 ## 🖥 Back End
