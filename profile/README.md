@@ -5,7 +5,19 @@
     <img src="https://github.com/BiBot-org/.github/assets/36991763/c770cefd-4575-4d1c-907d-357cfdda7f58" width="150%" height="auto"/>
 </div>
 
-## 팀 소개
+# 😃 팀 소개
+
+<div align="center">
+  <img src="https://github.com/BiBot-org/bibot/assets/36991763/45d87402-e004-4946-9a79-9f89b7524d9c" />
+</div>
+<div align="center" margin="10 0 0 10">
+  <h2>맛있게 먹어요! 우리는 Code Recipe!</h3>
+</div>
+<div align="center" margin="10 0 0 10">
+  <h4>맛있는 음식을 만들기 위해선 요리사의 역량 만큼이나 구성 된 재료도 중요합니다.</h2>
+  <h4>팀원 개개인이 좋은 재료로써도 역할 하지만, 더 좋고 맛있는 소프트웨어를 위해 노력하는 팀입니다.</h2>
+</div>
+
 |노홍기|박준석|손우진(Team Leader)|박노명|김효은|
 |----|-----|-----|-----|----|
 |![image](https://github.com/BiBot-org/.github/assets/36991763/d23f51cd-e437-4ad7-b7e0-efe7e44d894d)|![image](https://github.com/BiBot-org/.github/assets/36991763/a086b038-38f8-437a-a696-66c2cec28c3e)|![KakaoTalk_20230612_000331814](https://github.com/BiBot-org/.github/assets/36991763/9b1a6129-8646-42bc-a4de-878fe1f873a1)|![image](https://github.com/BiBot-org/.github/assets/36991763/b2cbfc53-8cc3-401b-9576-2cc28921bb74)|![image](https://github.com/BiBot-org/.github/assets/36991763/9b5d647e-9292-445b-a7d9-ae282ea0b815)|
