@@ -5,6 +5,19 @@
     <img src="https://github.com/BiBot-org/.github/assets/36991763/c770cefd-4575-4d1c-907d-357cfdda7f58" width="150%" height="auto"/>
 </div>
 
+# 😀 산출물 Wiki 바로가기 😀
+
+## [프론트엔드 Wiki](https://github.com/BiBot-org/bibot/wiki) 
+- 요구사항 정의서
+- 화면 정의서
+- 기능 명세서
+
+## [백엔드 Wiki](https://github.com/BiBot-org/bibot-backend/wiki)
+- API 문서
+- 아키텍쳐 문서
+- ERD 문서
+
+
 # 😃 팀 소개
 
 <div align="center">
