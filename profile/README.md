@@ -11,6 +11,9 @@
 - 요구사항 정의서
 - 화면 정의서
 - 기능 명세서
+### [어드민 Wiki](https://github.com/BiBot-org/BiBot-admin/wiki)
+- 화면 정의서
+- 기능 명세서
 
 ## [백엔드 Wiki](https://github.com/BiBot-org/bibot-backend/wiki)
 - API 문서
