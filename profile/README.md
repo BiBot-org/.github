@@ -21,7 +21,7 @@
 - ERD 문서
 - 트러블 슈팅 문서
 
-## [DevOps Wiki](https://github.com/BiBot-org/argoCD/wiki))
+## [DevOps Wiki](https://github.com/BiBot-org/argoCD/wiki)
 - CI / CD 흐름도
   
 
